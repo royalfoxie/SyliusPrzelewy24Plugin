@@ -82,10 +82,10 @@ We work on stable, supported, and up-to-date versions of packages. We recommend 
 
 | Package       | Version         |
 |---------------|-----------------|
-| PHP           | \>=8.0          |
-| sylius/sylius | 1.12.x - 1.13.x |
+| PHP           | \>=8.2          |
+| sylius/sylius | ^2.0            |
 | MySQL         | \>= 5.7         |
-| NodeJS        | \>= 14.17.x     |
+| NodeJS        | \>= 18          |
 
 
 
